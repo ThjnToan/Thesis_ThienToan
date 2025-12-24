@@ -4,7 +4,7 @@ Dynare code for DSGE model in Vietnam's energy sector.
 # Directed Technical Change in Vietnam's Energy Transition
 **Thesis Code Repository**
 **Author:** Nguyen Thien Toan (Justin)
-**Year:** 2025
+**Year:** 2025 - 2026
 
 ## Overview
 This repository contains the replication code for my Master's thesis. The project utilizes a DSGE model with Directed Technical Change (DTC) and Time-to-Build frictions to analyze the "Agility Gap" between private battery investment and public grid infrastructure in Vietnam.
