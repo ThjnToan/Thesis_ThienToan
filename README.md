@@ -1,4 +1,4 @@
-# Thesis_ThienToan
+# Capstone_ThienToan
 Dynare code for DSGE model in Vietnam's energy sector.
 
 # Directed Technical Change in Vietnam's Energy Transition
