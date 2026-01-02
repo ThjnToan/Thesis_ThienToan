@@ -3,7 +3,6 @@
 **Author:** Toan T. Nguyen  
 **Advisor:** Dr. Xavier Martin Gochoco Bautista  
 **Institution:** Fulbright University Vietnam  
-**Thesis Date:** January 2026
 
 ## 1. Overview
 This repository contains the replication codes for the undergraduate capstone thesis **"The Agility Gap."**
